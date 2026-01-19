@@ -1,3 +1,9 @@
+# Deprecated
+
+This project is no longer maintained.
+
+---
+
 # Gatsby Source Ghost
 
 Source plugin for pulling data into [Gatsby.js](https://www.gatsbyjs.org/) from [Ghost](https://ghost.org), using the Ghost [Content API](https://docs.ghost.org/api/content/).
