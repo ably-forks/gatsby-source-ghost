@@ -33,7 +33,7 @@
     "@tryghost/content-api": "1.12.3",
     "cheerio": "1.0.0-rc.12",
     "gatsby-node-helpers": "0.3.0",
-    "qs": "6.14.1"
+    "qs": "6.14.2"
   },
   "resolutions": {
     "semver": "^7.6.3",
